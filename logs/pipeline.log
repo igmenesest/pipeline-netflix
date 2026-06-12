@@ -1,0 +1,4 @@
+2026-06-11 21:52:20,700 | ERROR | ERROR EN LIMPIEZA: [Errno 2] No such file or directory: 'data\\raw\\netflix_titles.csv'
+2026-06-11 21:54:12,573 | INFO | LIMPIEZA OK: Datos guardados en data/clean/netflix_limpio.csv
+2026-06-11 21:56:48,338 | INFO | VALIDACIÓN OK: 8783 registros válidos y 14 errores separados.
+2026-06-11 21:58:28,316 | INFO | CARGA OK: 8783 registros insertados en BD.
